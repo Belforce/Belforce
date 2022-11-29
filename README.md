@@ -1,6 +1,6 @@
 ### Olá, Eu sou o Rafael Antônio 👋
 
-- 🌱 Estudando: ReactJS e PHP
+- 🌱 Estudando: ReactJS 
 
 <div align="center">
   <a href="https://github.com/Belforce">
